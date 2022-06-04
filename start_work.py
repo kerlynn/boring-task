@@ -14,4 +14,5 @@ webbrowser.open('https://bitbucket.org/')
 # Check Issue
 webbrowser.open('https://sentry.io/')
 
+# Open Messaging Application
 os.system("open -a slack")
